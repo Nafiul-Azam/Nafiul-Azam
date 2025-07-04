@@ -142,6 +142,14 @@
 
 > A developer's life has a rhythm—**Code 💻 Learn 📚 Dream 🌌 Repeat 🔁**
 
+---
+
 <p align="center">
-  <img src="https://i.imgur.com/wj7VYkW.gif" alt="Heartbeat Monitor" width="600"/>
+  <img src="https://i.imgur.com/wj7VYkW.gif" width="600" alt="heartbeat"/>
 </p>
+
+<p align="center">
+  <strong>Still coding... Still dreaming... Still alive 🧠💡</strong>
+</p>
+
+---
