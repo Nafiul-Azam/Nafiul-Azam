@@ -71,13 +71,13 @@
 
 ### 📁 Featured Projects
 
-> কিছু ভালো প্রজেক্টের লিংক দেখাও যেগুলো তোমার প্রোফাইলে পিন করা আছে বা proud of
+> আমার জীবনের প্রথম কিছু প্রজেক্ট এখানে রেখেছি যাতে আপনি দেখতে পারেন আমি কতটা প্যাশনেট ছিলাম।
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🎨 Portfolio Website](https://github.com/Nafiul-Azam/portfolio) | Personal developer portfolio showcasing skills and projects | HTML, CSS, JS |
-| [📱 Weather App](https://github.com/Nafiul-Azam/weather-app) | Real-time weather app using API | HTML, CSS, JS, API |
-| [📝 Blog Platform](https://github.com/Nafiul-Azam/blogsite) | Simple blog site with markdown support | React, Tailwind, Firebase |
+| [🎨 Portfolio Website](https://nafiul-azam.github.io/Personal-Portfolio--01/) | একটি ব্যক্তিগত পোর্টফোলিও ওয়েবসাইট যেখানে আমার স্কিলস ও প্রজেক্ট শোকেস করা হয়েছে | HTML, CSS, JS |
+| [📱 Calculator App](https://nafiul-azam.github.io/calculator/) | একটি সিম্পল ক্যালকুলেটর অ্যাপ যা বেসিক গণনা করতে পারে | HTML, CSS, JS |
+| [📝 Blog Platform](https://github.com/Nafiul-Azam/blogsite) | একটি ব্লগ প্ল্যাটফর্ম যেখানে Markdown দিয়ে লেখা পোস্ট করা যায় | React, Tailwind, Firebase |
 
 ---
 
