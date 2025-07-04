@@ -138,3 +138,10 @@
 <p align="center">
   <b>Still coding... still dreaming... still alive 🧠💡</b>
 </p>
+### 🫀 Heartbeat Monitor
+
+> A developer's life has a rhythm—**Code 💻 Learn 📚 Dream 🌌 Repeat 🔁**
+
+<p align="center">
+  <img src="https://i.imgur.com/wj7VYkW.gif" alt="Heartbeat Monitor" width="600"/>
+</p>
