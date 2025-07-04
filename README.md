@@ -65,3 +65,68 @@
 
 ---
 
+<!-- তোমার আগের সব কন্টেন্ট থাকবে... তারপর নিচেরগুলো অ্যাড করো -->
+
+---
+
+### 📁 Featured Projects
+
+> কিছু ভালো প্রজেক্টের লিংক দেখাও যেগুলো তোমার প্রোফাইলে পিন করা আছে বা proud of
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🎨 Portfolio Website](https://github.com/Nafiul-Azam/portfolio) | Personal developer portfolio showcasing skills and projects | HTML, CSS, JS |
+| [📱 Weather App](https://github.com/Nafiul-Azam/weather-app) | Real-time weather app using API | HTML, CSS, JS, API |
+| [📝 Blog Platform](https://github.com/Nafiul-Azam/blogsite) | Simple blog site with markdown support | React, Tailwind, Firebase |
+
+---
+
+### 📈 My GitHub Activity
+
+<!-- GitHub Activity Graph (animated contribution map) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nafiul-Azam&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🧰 Tech I'm Currently Learning
+
+- ⚙️ Next.js, Framer Motion
+- 🔐 Firebase Authentication
+- 💬 ChatGPT API Integration
+- 🧠 GitHub Actions & CI/CD
+- 🎨 Advanced CSS Animations
+
+---
+
+### 💡 Future Goals
+
+- 🚀 Build a SaaS product
+- 🏆 Win a Hackathon
+- 📱 Launch my first Play Store App
+- 💼 Start an IT firm by 2030
+
+---
+
+### 👑 Inspirational Quote
+
+> _"If you want to go fast, go alone. If you want to go far, go together."_ – African Proverb
+
+---
+
+### 🧩 Fun Tech Facts About Me
+
+- 🧠 I dream in code!
+- 🖼️ I design my UI on paper first
+- 🎧 I can't code without Lofi music
+- 📸 I take cloud & nature photos on weekends!
+
+---
+
+<p align="center">
+  <a href="https://facebook.com/nafiulazam.dev.coder"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:nafiulazam995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourname" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
+
