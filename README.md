@@ -140,3 +140,12 @@
 </p>
 > A developer's life has a rhythm—**Code 💻 Learn 📚 Dream 🌌 Repeat 🔁**
 
+---
+
+### 🚀 My Skills & Interests
+
+<p align="center">
+  <img src="https://i.imgur.com/3TyU1Tp.gif" alt="Skills and Interests Animation" width="400" />
+</p>
+
+---
